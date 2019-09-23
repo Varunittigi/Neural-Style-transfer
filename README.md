@@ -1,6 +1,6 @@
 # Neural-Style-transfer
 
-1.Open the notebook file on colab/
+1.Open the notebook file on colab <br />
 2.Upload the content image and style image by running the cell.//
 3.Run all cells to get the output.//
 4.The amount of style can be varied by varying the alpha and beta values.//
